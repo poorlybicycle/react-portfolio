@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Lora, sans-serif;
+    background-color: #f1e4ef;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #d6b2e3;
+    color: #f1e4ef;
+    height: 90px;
+    padding: 30px 25px;
+}
+
+img {
+    height: 80px;
+    width: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.navh2 {
+    margin-right: auto;
+    font-weight: 600;
+}
